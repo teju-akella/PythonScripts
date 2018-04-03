@@ -1,11 +1,8 @@
 class EvenNumAdd:
     def method1(self):
         j=1
-        i=0
         k=0
         result=0
-        lo=0
-
         #for i in range(i,number):
         while j<=4000000:
             temp=k+j
